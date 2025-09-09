@@ -6,4 +6,9 @@ public class Score : MonoBehaviour
     {
 
     }
+
+    public void SubtractScore()
+    {
+
+    }
 }
