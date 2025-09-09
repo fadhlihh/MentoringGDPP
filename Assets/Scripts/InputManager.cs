@@ -6,4 +6,9 @@ public class InputManager : MonoBehaviour
     {
 
     }
+
+    public void OnDodgeInput()
+    {
+
+    }
 }
